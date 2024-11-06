@@ -1,7 +1,7 @@
 {
   "app-id": "net.mediaarea.DVAnalyzer",
   "runtime": "org.kde.Platform",
-  "runtime-version": "5.15-21.08",
+  "runtime-version": "5.15-23.08",
   "sdk": "org.kde.Sdk",
   "command": "dvanalyzer-gui",
   "rename-desktop-file": "dvanalyzer-gui.desktop",
